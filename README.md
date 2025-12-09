@@ -13,5 +13,5 @@ While this tutorial does not have a specific target demographic, it would be mor
 ## Tutorial Pages
 
 - **[01 – What Are File Types?](whatisafile.md)**  
-- **[02 – Common File Categories](02-common-file-categories.md)**  
+- **[02 – Common File Categories](commonfiletypes.md)**  
 
