@@ -9,3 +9,9 @@ This short tutorial will give you a basic understanding of various file types an
 While this tutorial does not have a specific target demographic, it would be more useful for anyone who wants ot learn more about file types and is searching to see what file type would best suit their project. 
 
 **Estimated completion time:** ~6 minutes.
+
+## Tutorial Pages
+
+- **[01 – What Are File Types?](01-file-types-basics.md)**  
+- **[02 – Common File Categories](02-common-file-categories.md)**  
+
