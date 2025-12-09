@@ -10,7 +10,8 @@
 A **file type** describes the structure and purpose of a file, and how to interpret the data the computer is being given. 
 
 - `.JSON`
-JSON is a lightweight file format to store and transport data. It stands out for having   allowed for simple communication and simplicity of sending, receiving, and storing data.
+  <p>
+JSON is a lightweight file format to store and transport data. It stands out for having   allowed for simple communication and simplicity of sending, receiving, and storing data. </p>
 
 - `.XML`
 XML is a text-based document format that uses Extensible Markup Language. It uses tags to predetermine controls for content and allows users to define/add their own. This allows for highly flexible data types 
