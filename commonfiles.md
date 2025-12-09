@@ -8,3 +8,10 @@
 ## What Is a File Type?
 
 A **file type** describes the structure and purpose of a file, and how to interpret the data the computer is being given. 
+
+
+
+
+
+- ** [← Home](README.md)** 
+ 
